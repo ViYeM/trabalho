@@ -1,0 +1,22 @@
+CLIENTE INICIO
+codigo 1 
+nome joao
+cliente fim
+
+CLIENTE INICIO
+codigo 2
+nome 
+cliente fim
+
+CLIENTE INICIO
+codigo 3 
+nome 
+cliente fim
+
+CLIENTE INICIO
+codigo 4 
+nome 
+cliente fim
+
+
+(Char CodigoCLiente) (Char NomeCamelCase) (Char Telefone) (Char CNH) {(char rua)(char bairro)(char numero)(char complemento)(char Cep)(char estado)(charCidade)}
